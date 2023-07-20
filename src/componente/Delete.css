@@ -1,0 +1,8 @@
+
+.caunt > button{
+    width: 80px;
+    height: 40px;
+    background-color: blue;
+    color: azure;
+    border-radius: 8px;
+}

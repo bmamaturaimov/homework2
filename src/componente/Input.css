@@ -1,0 +1,14 @@
+.div-1 > input{
+    background-color: rgb(142, 251, 9);
+    width: 200px;
+    height: 40px;
+    border-radius: 8px;
+}
+.div-1 > button{
+    background-color: blue;
+    color: azure;
+    width: 80px;
+    height: 30px;
+    margin-left: 30px;
+    border-radius: 8px;
+}
